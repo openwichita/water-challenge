@@ -1,0 +1,15 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+/*
+ * Customizations
+ */
+  .buttom-columns{
+   border-top: 1px solid #eee;
+   margin-top: 1.5%;
+  }
