@@ -1,0 +1,5 @@
+# Wichita Water Challenge
+
+To develop a system that integrates with the Wichita Water departments's water
+usage tracking system in order to pit neighborhoods against each other to lower
+their water usage.
